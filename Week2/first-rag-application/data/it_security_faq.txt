@@ -1,0 +1,27 @@
+NovaCart IT Security FAQ (internal, fictional)
+
+Q: How often must I change my password?
+A: Passwords must be changed every 90 days. They need at least 14 characters and cannot reuse
+any of your last 5 passwords.
+
+Q: Is multi-factor authentication mandatory?
+A: Yes. Multi-factor authentication (MFA) is mandatory for email, the VPN, GitHub and every
+production system. Use the NovaCart Authenticator app; SMS codes are not allowed.
+
+Q: What should I do with a suspicious email?
+A: Do not click links or open attachments. Use the "Report phishing" button in your mail client
+or forward the email to security@novacart.example.
+
+Q: My laptop was lost or stolen. What now?
+A: Report it to the IT service desk within 24 hours by calling extension 4357 or raising a
+ticket in the IT portal. IT will remotely lock and wipe the device.
+
+Q: Can I install software on my company laptop?
+A: Only from the NovaCart Software Center. Anything else needs an approved IT ticket.
+
+Q: Can I use personal USB drives?
+A: No. USB storage is blocked on company laptops. Share files through the company drive.
+
+Q: Where do I store customer data?
+A: Customer personal data may only be stored in approved production databases. It must never be
+copied to laptops, spreadsheets or chat tools.
